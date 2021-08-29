@@ -324,7 +324,7 @@ var rev1_cardData = [
         "imageslug": "",
         "title": "Map Art",
         "desc": "Several players created some incredible works of art by hand placing each block over several chunks in the End, so that when viewed at the scale on an in-game map, it would make a painting. Pixel-art on an incredible scale, at the risk of falling into the void!",
-        "customCard": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><a href=\"https://legos.digital/imgs/rev1/map_art/2021-07-31_16.26.52.png\" class=\"card-link\">Minecraft, Volume Alpha by glockstar01</a></li><li class=\"list-group-item\"><a href=\"https://legos.digital/imgs/rev1/map_art/2021-07-31_16.26.01.png\" class=\"card-link\">Moon Man by MurderousPlunky</a></li></ul>",
+        "customCard": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><a href=\"https://legos.digital/imgs/rev1/map_art/2021-07-31_16.26.52.png\" class=\"card-link\">Minecraft, Volume Alpha by MurderousPlunky</a></li><li class=\"list-group-item\"><a href=\"https://legos.digital/imgs/rev1/map_art/2021-07-31_16.26.01.png\" class=\"card-link\">Girl In The Wind, by glockstar01</a></li></ul>",
         "builder": "MurderousPlunky, Lemonan, glockstar01, & others.",
         "date": ""
     },
